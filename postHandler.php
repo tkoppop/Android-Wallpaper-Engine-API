@@ -1,7 +1,7 @@
 <?php
 $url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 if (isset($_POST["submit"]) && isset($_POST['key'])) {
-    if ($_POST['key'] == "CodesEasy@Wallpaper@Test@App") {
+    if ($_POST['key'] == "tkoppop@Wallpaper@Test@App") {
         $target_image = "images/";
         $target_thumbnail = "thumbnails/";
         $imageFileType = strtolower(pathinfo(basename($_FILES["image"]["name"]), PATHINFO_EXTENSION));

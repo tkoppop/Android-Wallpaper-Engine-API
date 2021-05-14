@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Wallpaper One",
+    "thumbnail": "https://cewallpaper.herokuapp.com/thumbnails/image1thumb.jpg",
+    "image": "https://cewallpaper.herokuapp.com/images/image1.jpeg"
+  },
+  {
+    "title": "Wallpaper Two",
+    "thumbnail": "https://cewallpaper.herokuapp.com/thumbnails/image2thumb.jpg",
+    "image": "https://cewallpaper.herokuapp.com/images/image2.jpeg"
+  },
+  {
+    "title": "Wallpaper Three",
+    "thumbnail": "https://cewallpaper.herokuapp.com/thumbnails/image3thumb.jpg",
+    "image": "https://cewallpaper.herokuapp.com/images/image3.jpeg"
+  },
+  {
+    "title": "Wallpaper Four",
+    "thumbnail": "https://cewallpaper.herokuapp.com/thumbnails/image4thumb.jpg",
+    "image": "https://cewallpaper.herokuapp.com/images/image4.jpeg"
+  },
+  {
+    "title": "Wallpaper Five",
+    "thumbnail": "https://cewallpaper.herokuapp.com/thumbnails/image5thumb.jpg",
+    "image": "https://cewallpaper.herokuapp.com/images/image5.jpeg"
+  }
+]

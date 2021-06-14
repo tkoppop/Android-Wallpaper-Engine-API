@@ -1,6 +1,7 @@
 # Android-Wallpaper-Engine
 
-An app that allowed the user to change wallpapers on his phone as well as push wallpaper from his computer to his phone.The Web api is in the root of this repo. Inside the folder "Wallpaper Engine" is the actual phone application. Tested on an android phone simulator in Android Studio. With the api using the key "tkoppop@Wallpaper@Test@App" the user can push photos to the live version of the application. Therefore the user is able to see other people's photos that they pushed. The user can download or set these photos to their background photo.
+This application allowes the user to change wallpapers on his/her phone. You can push wallpapers from your computer to an online WebApi which is access by the phone application. The source code of the API is in tkoppop/Andriod-Wallpaper-Engine-API.
 
+What the code does: This is just a simple website coded in javascript. You set a name for the wallpaper, use the key "tkoppop@Wallpaper@Test@App", then you upload a thumbnail, and then the actual image. 
 
-![image](https://user-images.githubusercontent.com/59458611/118335340-463e2680-b4c4-11eb-9693-3ef6a1a8bcd2.png)
+![image](https://user-images.githubusercontent.com/59458611/121940394-ea550080-cd02-11eb-883d-469b5f0e14c8.png)

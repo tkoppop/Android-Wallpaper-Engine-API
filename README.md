@@ -1,4 +1,4 @@
-# Android-Wallpaper-Engine
+# Android-Wallpaper-Engine-API
 
 This application allowes the user to change wallpapers on his/her phone. You can push wallpapers from your computer to an online WebApi which is access by the phone application. The source code of the API is in tkoppop/Andriod-Wallpaper-Engine-API.
 
